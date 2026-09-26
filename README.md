@@ -8,6 +8,8 @@
 
 ## 🗓️ 2026
 
+- [2026-09-20] [Evaluating Code Slop in Long-Horizon Coding Agents](https://openreview.net/forum?id=VLgFkLRUfV)  
+  *Defines code slop (unnecessary code volume, control-flow complexity, and maintainability debt beyond task requirements) and shows that a monitor-triggered cleanup policy reduces it most across 2,268 SWE-EVO runs while functional utility stays stable.*  
 - [2026-05-18] [Code as Agent Harness](https://arxiv.org/abs/2605.18747)  
   *A survey framing code as the infrastructure layer of agentic systems, organizing harness design across interfaces, mechanisms, and multi-agent scaling.*  
 
